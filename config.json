@@ -1,0 +1,9 @@
+{
+    "database": "dbname",
+    "user": "dbusername",
+    "password": "dbpass",
+    "host": "localhost",
+    "port": "5432",
+    "max_workers": 4,
+    "db_type": "postgresql"
+}
